@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_185825_instrum_0_instrument" label="Percussion Instrument" max_length="40" name="x_185825_instrum_0_percussion_instrument" sizeclass="0" type="collection">
+        <element choice="1" label="Percussion Type" mandatory="true" max_length="40" name="percussion_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Pitched Percussion" sequence="100" value="pitched_percussion"/>
+                <element inactive_on_update="false" label="Unpitched Percussion" sequence="200" value="unpitched_percussion"/>
+            </choice>
+        </element>
+    </element>
+</database>

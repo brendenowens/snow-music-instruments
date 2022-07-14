@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_185825_instrum_0_instrument" label="Woodwind Instrument" max_length="40" name="x_185825_instrum_0_woodwind_instrument" sizeclass="0" type="collection">
+        <element label="Has Reed" max_length="40" name="has_reed" type="boolean"/>
+    </element>
+</database>
