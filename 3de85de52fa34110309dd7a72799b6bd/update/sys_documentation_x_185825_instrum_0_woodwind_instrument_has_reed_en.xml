@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="has_reed" label="Has Reed" language="en" table="x_185825_instrum_0_woodwind_instrument">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>has_reed</element>
+            <help/>
+            <hint/>
+            <label>Has Reed</label>
+            <language>en</language>
+            <name>x_185825_instrum_0_woodwind_instrument</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 16:43:15</sys_created_on>
+            <sys_id>9f8e49f72f230110309dd7a72799b6bd</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Has Reed</sys_name>
+            <sys_package display_value="Instrument Management" source="x_185825_instrum_0">3de85de52fa34110309dd7a72799b6bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Instrument Management">3de85de52fa34110309dd7a72799b6bd</sys_scope>
+            <sys_update_name>sys_documentation_x_185825_instrum_0_woodwind_instrument_has_reed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 16:43:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
